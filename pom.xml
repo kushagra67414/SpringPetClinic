@@ -260,7 +260,7 @@
 <snapshotRepository>
 <id>upes</id>
 <name>upes</name>
-<url>http://localhost:8081/repository/JenkinsINT/</url>
+<url>http://localhost:8081/#browse/browse:JenkinsINT</url>
 </snapshotRepository>
 </distributionManagement>
     
