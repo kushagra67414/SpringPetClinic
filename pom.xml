@@ -260,7 +260,7 @@
 <snapshotRepository>
 <id>upes</id>
 <name>upes</name>
-<url>http://localhost:8081/repository/cicd_lab8/</url>
+<url>http://localhost:8081/repository/JenkinsINT/</url>
 </snapshotRepository>
 </distributionManagement>
     
